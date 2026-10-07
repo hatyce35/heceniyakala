@@ -1,0 +1,6 @@
+{
+  "name": "Heceni Yakala",
+  "description": "İlkokul çocukları için eğlenceli ve öğretici Türkçe harf, hece ve ilk okuma baloncuk oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
